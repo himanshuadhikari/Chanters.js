@@ -1,0 +1,16 @@
+{
+    "name": "Chanters",
+    "authors": [
+        "himanshu adhikari <adhikari.himanshu444@gmail.com>"
+    ],
+    "description": "Framework for creating WebComponents",
+    "main": "./chanters.js",
+    "keywords": [
+        "Webcompoent",
+        "Two way binding"
+    ],
+    "license": "",
+    "homepage": "",
+    "private": true,
+    "version": "0.0.8"
+}
